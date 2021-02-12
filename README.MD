@@ -17,10 +17,6 @@ Hi, my name is Valentin.
     <a href="https://discord.gg/AZGUjWPb" target="_blank"><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png"></a>
 </code>
 
-<Ah so you tried to copy it?>
-<How are you btw?>
-<B)>
-
 <SECRET GUEST BOOK>
 <ooooooooooooooooo>
 <ooooooooooooooooo
