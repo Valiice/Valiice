@@ -21,8 +21,11 @@ Hi, my name is Valentin.
 <How are you btw?>
 <B)>
 
-<Bugged
+<SECRET GUEST BOOK>
+<ooooooooooooooooo>
+<ooooooooooooooooo
 |12-02-2021
 | Actually getting bugged from the quarantine
 | Im sooo bugged not even gonna lie
 |-- Valiice>
+
