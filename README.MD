@@ -12,7 +12,6 @@ Hi, my name is Valentin.
 
 <code>
     <a href="https://twitter.com/Volintonsuck" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733579.svg"></a>
-    <a href="https://www.linkedin.com/in/valentin-claes-408801206/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
     <a href="https://www.twitch.tv/valiice" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733577.svg"></a>
     <a href="https://discord.gg/yCE4WJbwC4" target="_blank"><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png"></a>
 </code>
