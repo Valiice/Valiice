@@ -6,8 +6,8 @@ Hi, my name is Valentin.
 
 + Living in Belgium 🇧🇪.
 - 20 years old
-! Maker of shitbots
-# 📖 C#, Python
+! Maker of bad bots
+# 📖 C#, Python, Rust
 ```
 
 <code>
