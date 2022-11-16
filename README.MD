@@ -5,9 +5,9 @@
 Hi, my name is Valentin.
 
 + Living in Belgium 🇧🇪.
-- 20 years old
+- 21 years old
 ! Maker of bad bots
-# 📖 C#, Python, Rust
+# 📖 C#, Typescript, Python, Rust
 ```
 
 <code>
