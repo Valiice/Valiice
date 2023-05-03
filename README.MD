@@ -18,7 +18,7 @@ Hi, my name is Valentin.
 </p>
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=valiice&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Valiice's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valiice&layout=compact&theme=tokyonight&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=valiice&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Valiice's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valiice&layout=compact&theme=tokyonight&hide_border=true" /> |
 | ------------- | ------------- |
 
 
