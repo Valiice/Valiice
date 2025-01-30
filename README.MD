@@ -5,7 +5,7 @@
 Hi, my name is Valentin.
 
 + Living in Belgium 🇧🇪.
-- 22 years old
+- 23 years old
 ! I make bots and code in C# for a living
 # 📖 C#, Rust, Typescript, Python
 ```
