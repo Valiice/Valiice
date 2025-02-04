@@ -11,9 +11,6 @@ Hi, my name is Valentin.
 ```
 
 <p>
-    <a href="https://twitter.com/Volintonsuck" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"></a>
-    <a href="https://www.twitch.tv/valiice" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png"></a>
-    <a href="https://discord.gg/yCE4WJbwC4" target="_blank"><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png"></a>
     <a href='https://ko-fi.com/H2H5HFA6V' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0'         alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
