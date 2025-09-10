@@ -5,7 +5,7 @@
 Hi, my name is Valentin.
 
 + Living in Belgium 🇧🇪.
-- 23 years old
+- 24 years old
 ! I make bots and code in C# for a living
 # 📖 C#, Rust, Typescript, Python
 ```
@@ -24,4 +24,5 @@ Hi, my name is Valentin.
 | Actually getting bugged from the quarantine
 | Im sooo bugged not even gonna lie
 |-- Valiice>
+
 
