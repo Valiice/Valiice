@@ -21,20 +21,6 @@ Hi, my name is Valentin.
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=valiice&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valiice&theme=tokyonight" alt="Languages" />
-  <img src="https://streak-stats.demolab.com?user=Valiice&theme=tokyonight" alt="Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://wakatime.com/share/@Valiice/fed13d36-f750-420f-b56e-a0681a9d006d.svg" width="800" />
-</div>
-
-<br/>
-
-<div align="center">
 
   <h3>🔌 <a href="https://github.com/Valiice/DalamudPluginRepo">Dalamud Plugins</a></h3>
 
